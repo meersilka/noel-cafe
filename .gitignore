@@ -1,0 +1,10 @@
+.DS_Store
+.vscode/
+.idea/
+*.log
+node_modules/
+_pv_*.html
+preview_*.png
+test_*.png
+v_*.png
+sec_*.png
